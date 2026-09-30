@@ -225,4 +225,4 @@ Dungeon Defenders is the full free version with all features and updates include
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-30 01:04:11 UTC
+**Last updated:** 2026-09-30 07:58:54 UTC
